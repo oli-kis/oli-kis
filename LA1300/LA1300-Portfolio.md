@@ -22,11 +22,11 @@ Das Ziel dieses Algorithmus ist, die Workshopanmeldung so fair wie möglich zu g
 
 ### Bild in Form vom Algorithmus Code
 ```csharp
-for (int i = 0; i < zähler-1; i++)
+for (int i = 0; i < counter-1; i++)
             {
                 do
                 {
-                    number = rnd.Next(0, zähler-1);
+                    number = rnd.Next(0, counter-1);
                 } while (listNumbers.Contains(number));
 
                 listNumbers.Add(number);
@@ -79,5 +79,5 @@ for (int i = 0; i < zähler-1; i++)
 - Ich haben manchmal aufgrund von fehlender Konzentration meine Arbeit nicht sauber gemacht.
 
 ##### Für nächstes Mal kann ich folgendes besser machen:
-- In der Gruppe besser besprechen, welche Arbeitspakete zusammen gehören.
-- Genug Pausen machen und versuchen, die Arbeit mit genügend Konzentration schon beim ersten Mal richtig erledigen.
+- Wir sollten uns in der Gruppe am Anfang besser besprechen, welche Arbeitspäckchen miteinander verknüpft sind, um uns die Arbeitspäckchen so besser aufzuteilen.
+- Ich sollte mir am Anfang die Anforderungsanalyse und die Testfälle nochmal genau anschauen, um so nochmal zu erkennen was das Programm können sollte. So erledige ich meine Arbeiten schon beim ersten Versuch sauber und korrekt.
