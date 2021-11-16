@@ -5,8 +5,8 @@ Unsere Aufgabe war, ein Programm zu programmieren, welches eine **Datei mit E-Ma
 
 # Ziele
 ##### Hauptziele:
-1- Der Leser weiss nach dem Lesen wie unser Algorithmus aufgebaut ist.
-2- Der Leser weiss danach für was genau der Algorithmus da ist.
+- Der Leser weiss nach dem Lesen wie unser Algorithmus aufgebaut ist.
+- Der Leser weiss danach für was genau der Algorithmus da ist.
 
 # Inhalt
 
