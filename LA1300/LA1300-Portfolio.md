@@ -72,6 +72,7 @@ for (int i = 0; i < zähler-1; i++)
 ##### Was habe ich gut gemacht:
 - Ich bin gut auf Verbesserungsvorschläge eingegangen und habe versucht meine Arbeit zu verbessern
 - Ich habe mir einen guten und spannenden Algorithmus ausgedacht
+- Ich habe meine Arbeit nach einigen Startschwierigkeiten sauber und zuverlässig erledigt
 
 ##### Was lief nicht so gut
 - Wir haben uns bei den Arbeitspaketen teilweise nicht gut genug besprochen und haben ähnliche Dinge programmiert oder konnten gar nicht richtig arbeiten, weil uns noch Code von anderen fehlte.
