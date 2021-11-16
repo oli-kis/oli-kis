@@ -1,7 +1,7 @@
 # LA1300 Workshop-Anmeldungsprogramm
 Wir haben im Rahmen des Informatiklernateliers ein **Workshop-Anmeldungsprogramm** in `c#` programmiert.
 # Aufgabenstellung
-Unsere Aufgabe war, ein Programm zu programmieren, welches eine **Datei mit E-Mail-Adressen** und **drei Lieblingsworkshops** ausliest und danach mithilfe eines `Algorithmus` so viele Personen wie möglich in ihren Lieblingsworkshop einteilt.
+Unsere Aufgabe war es, ein Programm zu programmieren, welches eine **Datei mit E-Mail-Adressen** und **drei Lieblingsworkshops** ausliest und danach mithilfe eines `Algorithmus` so viele Personen wie möglich in ihren Lieblingsworkshop einteilt.
 
 # Ziele
 ##### Hauptziele:
@@ -75,9 +75,9 @@ Das Ziel dieses Algorithmus ist, die Workshopanmeldung so fair wie möglich zu g
 - Ich habe mir einen guten und spannenden Algorithmus ausgedacht
 
 ##### Was lief nicht so gut
-- Wir haben uns bei den Arbeitspaketen teilweise nicht gut genug besprochen und haben ähnliche Dinge programmiert oder konnten gar nicht richtig arbeiten weil uns noch Code von anderen fehlte.
+- Wir haben uns bei den Arbeitspaketen teilweise nicht gut genug besprochen und haben ähnliche Dinge programmiert oder konnten gar nicht richtig arbeiten, weil uns noch Code von anderen fehlte.
 - Ich haben manchmal aufgrund von fehlender Konzentration meine Arbeit nicht sauber gemacht.
 
 ##### Für nächstes Mal kann ich folgendes besser machen:
-- In der Gruppe besser besprechen welche Arbeitspakete zusammen gehören.
-- Genug Pausen machen und versuchen die Arbeit mit genügend Konzentration schon beim ersten Mal richtig erledigen.
+- In der Gruppe besser besprechen, welche Arbeitspakete zusammen gehören.
+- Genug Pausen machen und versuchen, die Arbeit mit genügend Konzentration schon beim ersten Mal richtig erledigen.
