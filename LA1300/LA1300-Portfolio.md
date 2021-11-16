@@ -10,6 +10,12 @@ Unsere Aufgabe war es, ein Programm zu programmieren, welches eine **Datei mit E
 
 # Inhalt
 
+### Text in Form einer Erklärung wie der Algorhitmus funktioniert
+
+Zuerst wird in einer `do-while Schleife` eine zufällige Zahl, zwischen 0 und der Anzahl Teilnehmer, generiert und danach in eine Liste gespeichert, sodass keine Zahl zweimal generiert wird. Danach wird die generierte Zahl und der Name der im Array an der Stelle der generierten Zahl steht geschrieben. Nun geht das Ganze in eine `switch-case`, wenn die erste Priorität Fussball ist geht es durch das `case` "Fussball" und wird dort in den `Array` Fussball einsortiert. Falls dieser voll ist, geht das Ganze in das case mit der 2. Priorität, falls dieser `Array` auch schon voll ist, wird die Person in den `Array` mit der 3. Priorität einsortiert.
+Das Ziel dieses Algorithmus ist, die Workshopanmeldung so fair wie möglich zu gestalten.
+
+
 ## Video
 
 [![Zum Video!](https://github.com/oli-kis/oli-kis/blob/oli-kis/img/Algorithmen-e1552378144472.jpg?raw=true)](https://youtu.be/Eeao3qKMB2s)
@@ -54,13 +60,6 @@ for (int i = 0; i < zähler-1; i++)
                 }
             }
 ```
-
-### Text in Form einer Erklärung wie der Algorhitmus funktioniert
-
-Zuerst wird in einer `do-while Schleife` eine zufällige Zahl, zwischen 0 und der Anzahl Teilnehmer, generiert und danach in eine Liste gespeichert, sodass keine Zahl zweimal generiert wird. Danach wird die generierte Zahl und der Name der im Array an der Stelle der generierten Zahl steht geschrieben. Nun geht das Ganze in eine `switch-case`, wenn die erste Priorität Fussball ist geht es durch das `case` "Fussball" und wird dort in den `Array` Fussball einsortiert. Falls dieser voll ist, geht das Ganze in das case mit der 2. Priorität, falls dieser `Array` auch schon voll ist, wird die Person in den `Array` mit der 3. Priorität einsortiert.
-Das Ziel dieses Algorithmus ist, die Workshopanmeldung so fair wie möglich zu gestalten.
-
-
 
 ### Reflektion/Verifikation
 
