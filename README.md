@@ -1,4 +1,4 @@
-# Willkommen auf meinem Portfolio
+# Willkommen auf meiner Homepage!
 ## Hier finden Sie alle meine Portfolio's
    * [Erstes Portfolio](Portfolio.md)
    * [LA1200](LA1200/LA1200.md)
