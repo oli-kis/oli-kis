@@ -5,9 +5,9 @@ Unsere Aufgabe war es, ein Programm zu programmieren, welches eine **Kreisfläch
 
 # Ziele
 ##### Hauptziele:
-1- Der Leser weiss nach dem Lesen wie man in Win-Forms `Hintergrundmusik` einfügen kann.
-2- Der Leser weiss danach welchen `Code` man dafür braucht.
-3- Der Leser kann den Code danach in seinem eigenen Programm anwenden
+- Der Leser weiss nach dem Lesen wie man in Win-Forms `Hintergrundmusik` einfügen kann.
+- Der Leser weiss danach welchen `Code` man dafür braucht.
+- Der Leser kann den Code danach in seinem eigenen Programm anwenden
 
 # Inhalt
 
