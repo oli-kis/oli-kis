@@ -7,5 +7,6 @@
    * [Datenschutz und Datensicherheit](M117/Datenschutz.md)
    * [LA1400 Portfolio](LA1400/Portfolio.md)
    * [LA1550 Robocode](LA1550/Portfolio.md)
+   * [LA1500 Foxy Moxy](LA1500/Foxy-Moxy.md)
  
  
