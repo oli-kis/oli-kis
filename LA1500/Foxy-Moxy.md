@@ -1,4 +1,4 @@
-# LA1400 Foxy Moxy Jump and Run Game
+# LA1500 Foxy Moxy Jump and Run Game
 Wir haben im Rahmen des Informatiklernateliers ein **Jump and Run Game** in `c#` programmiert, welches in einer tropischen Umgebung spielt.
 # Aufgabenstellung
 Unsere Aufgabe war es, ein **kreatives Videospiel** zu programmieren und dabei eigene Ideen zu verwenden. Wir haben uns für ein `Jump and Run` Game entschieden indem man einen Fuchs steuert und versucht ihn durch tropische Insellevels zu befördern ohne zu sterben. 
