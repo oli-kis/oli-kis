@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS**
 
-- 📫 How to reach me **olivier.kistler@gmx.ch**
+- 📫 How to reach me **o.kistler@roemergarage.ch**
 
 - ⚡ Fun fact **I love El Toni Mate**
 
