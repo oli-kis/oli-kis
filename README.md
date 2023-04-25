@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Mastering Docker**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **HTML, CSS**
 
