@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **olivier.kistler@gmx.ch**
 
-- ⚡ Fun fact **I play football**
+- ⚡ Fun fact **I love El Toni Mate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
