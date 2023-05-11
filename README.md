@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **o.kistler@roemergarage.ch**
 
-- ⚡ Fun fact **I love El Toni Mate**
+- ⚡ Fun fact **I love El Tony Mate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
